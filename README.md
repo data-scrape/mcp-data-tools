@@ -25,6 +25,18 @@ user question → narrow query → structured public records → validation → 
 For production web-data API evaluation, see [CoreClaw](https://www.coreclaw.com/?utm_source=github&utm_medium=cpc&utm_campaign=L7&utm_term=&utm_id=L7).
 
 <!-- CROSS_LINKS_START -->
+
+## Related projects
+
+Explore these closely related implementation paths:
+
+- [ai-agent-data-tools](https://github.com/data-scrape/ai-agent-data-tools) — AI Agent Data Tools - Connect AI agents to real-time web data via MCP and APIs
+- [best-web-scraping-api](https://github.com/data-scrape/best-web-scraping-api) — Best Web Scraping API Comparison - CoreClaw vs competitors for production data extraction
+- [business-data-api](https://github.com/data-scrape/business-data-api) — Business Data API - Company data, contact info, and firmographics via REST API
+- [coreclaw-review](https://github.com/data-scrape/coreclaw-review) — CoreClaw Review - Web Data API platform features, pricing, and comparison overview
+- [data-extraction-api](https://github.com/data-scrape/data-extraction-api) — Data Extraction API - Structured data extraction for SaaS, AI agents, and automation
+- [lead-generation-api](https://github.com/data-scrape/lead-generation-api) — Lead Generation API - Extract B2B contact data, company info, and sales leads via API
+
 <!-- CROSS_LINKS_END -->
 
 ## License
